@@ -2,4 +2,4 @@
 
 # CodAlpha Internship
 
-Repository contains projects done during CodSoft Internship
+Repository contains projects done during CodAlpha Internship
