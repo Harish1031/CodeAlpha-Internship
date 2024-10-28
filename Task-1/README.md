@@ -4,19 +4,17 @@
 
 ## **Task-1️⃣:**
 
-Create a To-do list application
+Titanic Classification
 
 ## Tech Stack used:
 1. Python
 2. Git
-3. GDB Online Debugger
-4. StackEdit
-5. PostImage
+3. Jupyter Notebook
+4. Pandas
+5. Numpy
+6. Scre.io
 
-Online Code: https://onlinegdb.com/kMz_m6hPP
 
-Video Link: https://youtu.be/fNj-jCHDZZE
+Video Link: https://youtu.be/55AC9GJxUw4
 
-## Output:
 
-![To-Do Output](https://i.postimg.cc/HkVGB9QX/Screenshot-2024-10-12-105633.png)
